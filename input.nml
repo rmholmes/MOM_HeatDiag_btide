@@ -659,6 +659,7 @@
 	background_diffusivity=0.0
 	background_viscosity=1.e-4
 	drag_dissipation_use_cdbot=.true.
+        tidal_diss_efficiency=1.66667
 /
 
  &ocean_xlandinsert_nml
